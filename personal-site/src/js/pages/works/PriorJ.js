@@ -13,6 +13,7 @@ export default class PriorJ extends Component {
                             <i class="fa fa-desktop"></i>
                             PriorJ
                         </h3>
+                        <h4>Plataforma: Desktop</h4>
                         <p>
                             Participação em projeto PIBITI, Priorização Automática de Casos de Teste Usando
                             PriorJ, orientado pela professora Patrícia Machado no SPLab. Trabalhando no

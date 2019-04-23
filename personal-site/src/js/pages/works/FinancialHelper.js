@@ -13,6 +13,7 @@ export default class FinancialHelper extends Component {
                             <i class="fa fa-mobile"></i>
                             Financial Helper
                         </h3>
+                        <h4>Plataforma: Android</h4>
                         <p>
                             Participação em projeto da Sony no Embedded Lab. Trabalhando no desenvolvimento,
                             testes e correções de bugs do aplicativo Financial Helper, aplicativo de controle

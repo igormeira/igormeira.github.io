@@ -5,6 +5,7 @@ import MinhaFeira from './MinhaFeira';
 import OlhoNagua from './OlhoNagua';
 import FinancialHelper from './FinancialHelper';
 import PriorJ from './PriorJ';
+import INSA from './INSA';
 
 export default class Work extends Component {
     render() {
@@ -19,8 +20,8 @@ export default class Work extends Component {
                 </div>
 
                 <div class="content-wrapper">
-                    <MinhaFeira></MinhaFeira>
                     <OlhoNagua></OlhoNagua>
+                    <INSA></INSA>
                     <FinancialHelper></FinancialHelper>
                     <PriorJ></PriorJ>
                     <Footer></Footer>

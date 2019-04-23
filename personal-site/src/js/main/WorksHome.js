@@ -11,7 +11,7 @@ export default class WorksHome extends Component {
                     <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-3">
 
                         <h3 class="content-subhead">
-                            <i class="fa fa-desktop"></i>
+                            <i class="fa fa-globe"></i>
                             Olho N'Água
                         </h3>
                         <p>
@@ -23,13 +23,13 @@ export default class WorksHome extends Component {
                     </div>
                     <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-3">
                         <h3 class="content-subhead">
-                            <i class="fa fa-mobile"></i>
-                            TrocAuto
+                            <i class="fa fa-globe"></i>
+                            Portal INSA
                         </h3>
                         <p>
-                            Desenvolvedor e criador. O TrocAuto é um aplicativo mobile com o intuito de
-                            de fazer um comparativo entre veículos. Mostrando qual teria o melhor custo
-                            financeiro, em caso de compra.
+                            Desenvolvedor Web no Instituto Nacional do Semiárido(INSA).
+                            Trabalhando no desenvolvimento do novo portal da instituição.
+                            Utilizando o Joomla como CMS.
                         </p>
                     </div>
                     <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-3">
@@ -45,13 +45,15 @@ export default class WorksHome extends Component {
                     </div>
                     <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-3">
                         <h3 class="content-subhead">
-                            <i class="fa fa-mobile"></i>
-                            Minha Feira
+                            <i class="fa fa-desktop"></i>
+                            PriorJ
                         </h3>
                         <p>
-                            Desenvolvedor e cocriador. O Minha Feira tem a missão de proporcionar um controle
-                            financeiro das suas feiras. Com gráficos interativos, o app mostar com quais tipos
-                            de produtos o usuário gasta mais. Entre outra diversas funções.
+                            Participação em projeto PIBITI, Priorização Automática de Casos de Teste Usando
+                            PriorJ, orientado pela professora Patrícia Machado no SPLab. Trabalhando no
+                            desenvolvimento, testes e resolução de bugs da ferramenta PriorJ, que visa a
+                            priorização automática de casos de teste, com base em técnicas pré definidas.
+                            Ferramenta com versão desktop e plugin para o Eclipse.
                         </p>
                     </div>
                 </div>

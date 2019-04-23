@@ -19,10 +19,10 @@ class App extends Component {
                     <div class="splash">
                         <h1 class="splash-head">Igor de A. Meira</h1>
                         <p class="splash-subhead">
-                            Mestrando em Engenharia de Software.
+                            Mestrando em Engenharia de Software - UFPE.
                         </p>
                         <p class="splash-subhead">
-                            Desenvolvedor mobile e web. Certificado na área de testes de software (CTFL).
+                            Desenvolvedor mobile e web. Certificado em testes de software (CTFL).
                         </p>
                     </div>
                 </div>
