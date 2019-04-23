@@ -5,9 +5,9 @@ import '../../css/layout.css';
 
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import Works_Home from './Works_Home';
-import Studies_Home from './Studies_Home';
-import About_Home from './About_Home';
+import WorksHome from './WorksHome';
+import StudiesHome from './StudiesHome';
+import AboutHome from './AboutHome';
 
 class App extends Component {
     render() {
@@ -28,9 +28,9 @@ class App extends Component {
                 </div>
 
                 <div class="content-wrapper">
-                    <Works_Home></Works_Home>
-                    <Studies_Home></Studies_Home>
-                    <About_Home></About_Home>
+                    <WorksHome></WorksHome>
+                    <StudiesHome></StudiesHome>
+                    <AboutHome></AboutHome>
                     <Footer></Footer>
                 </div>
             </div>
