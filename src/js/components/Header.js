@@ -7,9 +7,9 @@ class Header extends Component {
     render() {
         return (
             <div class="header">
-                <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed portrait">
+                <div class="home-menu pure-menu menu-horizontal pure-menu-fixed portrait">
                     <img src={photo}></img>
-                    <ul class="pure-menu-list">
+                    <ul class="pure-menu-list menu-list">
                         <li class="pure-menu-item"><Link to="/" className="pure-menu-link">Home</Link></li>
                         <li class="pure-menu-item"><Link to="/trabalhos" className="pure-menu-link">Trabalhos</Link></li>
                     </ul>

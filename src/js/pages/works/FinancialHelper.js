@@ -8,7 +8,7 @@ export default class FinancialHelper extends Component {
         return (
             <div class="content">
                 <div class="row">
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
                         <h3 class="content-subhead">
                             <i class="fa fa-mobile"></i>
                             Financial Helper
@@ -21,13 +21,13 @@ export default class FinancialHelper extends Component {
                         </p>
                     </div>
 
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
                         <div class="portrait-mobile">
                             <img src={android1}></img> <img src={android2}></img> <i class="fa fa-android"></i>
                         </div>
                     </div>
 
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
                         
                     </div>
                 </div>

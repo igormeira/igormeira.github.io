@@ -8,7 +8,7 @@ export default class PriorJ extends Component {
         return (
             <div class="content">
                 <div class="row">
-                    <div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
                         <h3 class="content-subhead">
                             <i class="fa fa-desktop"></i>
                             PriorJ
@@ -23,8 +23,8 @@ export default class PriorJ extends Component {
                         </p>
                     </div>
 
-                    <div class="col-8 col-sm-8 col-md-8 col-lg-8 col-xl-8 portrait-web">
-                        <img src={priorj2}></img> <i class="fa fa-desktop"></i>
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 portrait-web">
+                        <img src={priorj2}></img>
                     </div>
                 </div>
 

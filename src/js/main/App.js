@@ -22,7 +22,7 @@ class App extends Component {
                             Mestrando em Engenharia de Software - UFPE.
                         </p>
                         <p class="splash-subhead">
-                            Desenvolvedor mobile e web. Certificado em testes de software (CTFL).
+                            Desenvolvedor mobile e web. Certificação CTFL.
                         </p>
                     </div>
                 </div>

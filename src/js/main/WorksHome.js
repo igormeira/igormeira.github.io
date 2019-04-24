@@ -8,7 +8,7 @@ export default class WorksHome extends Component {
                 <h2 class="content-head is-center">TRABALHOS</h2>
 
                 <div class="row">
-                    <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-3">
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
 
                         <h3 class="content-subhead">
                             <i class="fa fa-globe"></i>
@@ -21,7 +21,7 @@ export default class WorksHome extends Component {
                             Semiárido brasileiro.
                         </p>
                     </div>
-                    <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-3">
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
                         <h3 class="content-subhead">
                             <i class="fa fa-globe"></i>
                             Portal INSA
@@ -32,7 +32,7 @@ export default class WorksHome extends Component {
                             Utilizando o Joomla como CMS.
                         </p>
                     </div>
-                    <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-3">
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
                         <h3 class="content-subhead">
                             <i class="fa fa-mobile"></i>
                             Financial Helper
@@ -43,7 +43,7 @@ export default class WorksHome extends Component {
                             financeiro para plataforma Android.
                         </p>
                     </div>
-                    <div class="col-3 col-sm-3 col-md-3 col-lg-3 col-xl-3">
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
                         <h3 class="content-subhead">
                             <i class="fa fa-desktop"></i>
                             PriorJ
