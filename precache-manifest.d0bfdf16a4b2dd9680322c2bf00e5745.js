@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/priorj2.1ad0119c.png"
   },
   {
-    "revision": "9d8000ec0ee8686a6031",
-    "url": "/static/css/main.7f1837e7.chunk.css"
+    "revision": "293dd7731de2a5aacc7c",
+    "url": "/static/css/main.e535feea.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/financialhelper-android2.f2ba67f9.png"
   },
   {
-    "revision": "9d8000ec0ee8686a6031",
-    "url": "/static/js/main.c6d49458.chunk.js"
+    "revision": "293dd7731de2a5aacc7c",
+    "url": "/static/js/main.c73bc1fe.chunk.js"
   },
   {
     "revision": "0fc1cc5d458cabc9092d0d6c6e8a94a2",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/priorj1.4b0424a6.png"
   },
   {
-    "revision": "22c3aca4d82e8b7a821f3885167f0e09",
+    "revision": "ece1c67b39e031446522ba9e4841eae2",
     "url": "/index.html"
   }
 ];
