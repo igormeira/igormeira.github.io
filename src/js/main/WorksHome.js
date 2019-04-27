@@ -5,9 +5,20 @@ export default class WorksHome extends Component {
     render() {
         return (
             <div class="content">
-                <h2 class="content-head is-center">TRABALHOS</h2>
+                <h2 class="content-head is-center">TRABALHOS RECENTES</h2>
 
                 <div class="row">
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+                        <h3 class="content-subhead">
+                            <i class="fa fa-desktop"></i>
+                            AppShop Controle de Estoque
+                        </h3>
+                        <p>
+                            Desenvolvedor. O AppShop Controle de Estoque é um aplicativo
+                            feito por encomenda. Tem o objetivo de auxiliar no controle
+                            do estoque da loja e compartilhar as informações sobre ele.
+                        </p>
+                    </div>
                     <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
 
                         <h3 class="content-subhead">
@@ -43,6 +54,7 @@ export default class WorksHome extends Component {
                             financeiro para plataforma Android.
                         </p>
                     </div>
+                    {/*
                     <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
                         <h3 class="content-subhead">
                             <i class="fa fa-desktop"></i>
@@ -56,6 +68,7 @@ export default class WorksHome extends Component {
                             Ferramenta com versão desktop e plugin para o Eclipse.
                         </p>
                     </div>
+                    */}
                 </div>
                 <div class="is-center">
                     <Link to="/trabalhos" className="pure-menu-link">

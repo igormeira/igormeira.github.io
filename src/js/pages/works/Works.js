@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
-import MinhaFeira from './MinhaFeira';
 import OlhoNagua from './OlhoNagua';
 import FinancialHelper from './FinancialHelper';
 import PriorJ from './PriorJ';
 import INSA from './INSA';
+import AppShopCE from './AppShopCE';
 
 export default class Work extends Component {
     render() {
@@ -20,6 +20,7 @@ export default class Work extends Component {
                 </div>
 
                 <div class="content-wrapper">
+                    <AppShopCE></AppShopCE>
                     <OlhoNagua></OlhoNagua>
                     <INSA></INSA>
                     <FinancialHelper></FinancialHelper>
