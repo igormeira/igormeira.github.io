@@ -1,23 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "1ad0119c13ad520d86e61899d84dac85",
-    "url": "/static/media/priorj2.1ad0119c.png"
+    "revision": "0fc1cc5d458cabc9092d0d6c6e8a94a2",
+    "url": "/static/media/insa-web.0fc1cc5d.png"
   },
   {
-    "revision": "293dd7731de2a5aacc7c",
-    "url": "/static/css/main.e535feea.chunk.css"
+    "revision": "4912e9c973569701a96b",
+    "url": "/static/css/main.ac0df7bc.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "9a742bcfb091d247a7b3",
-    "url": "/static/js/2.6e0038c6.chunk.js"
-  },
-  {
-    "revision": "a43052696015eea6f60d7eefc700fc24",
-    "url": "/static/media/minhafeira-ios.a4305269.png"
+    "revision": "ccdbae69c81891078f82",
+    "url": "/static/js/2.0be7d165.chunk.js"
   },
   {
     "revision": "6628a7ae2a13d47452e37224e157286f",
@@ -36,12 +32,20 @@ self.__precacheManifest = [
     "url": "/static/media/financialhelper-android2.f2ba67f9.png"
   },
   {
-    "revision": "293dd7731de2a5aacc7c",
-    "url": "/static/js/main.c73bc1fe.chunk.js"
+    "revision": "1ad0119c13ad520d86e61899d84dac85",
+    "url": "/static/media/priorj2.1ad0119c.png"
   },
   {
-    "revision": "0fc1cc5d458cabc9092d0d6c6e8a94a2",
-    "url": "/static/media/insa-web.0fc1cc5d.png"
+    "revision": "4912e9c973569701a96b",
+    "url": "/static/js/main.39c7da6f.chunk.js"
+  },
+  {
+    "revision": "6da876a03f662b359dd10c2e359345d6",
+    "url": "/static/media/appshop-ios1.6da876a0.png"
+  },
+  {
+    "revision": "e3af4682a11c56cf049589ed780f4072",
+    "url": "/static/media/appshop-ios2.e3af4682.png"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -68,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/media/priorj1.4b0424a6.png"
   },
   {
-    "revision": "ece1c67b39e031446522ba9e4841eae2",
+    "revision": "5d2bde57bdd497c425c3f498471805e5",
     "url": "/index.html"
   }
 ];
