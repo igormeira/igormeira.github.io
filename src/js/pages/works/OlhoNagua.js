@@ -19,7 +19,7 @@ export default class OlhoNagua extends Component {
                             Desenvolvedor no Laboratório Analytics, localizado na Universidade Federal de
                             Campina Grande (UFCG). Trabalhando no desenvolvimento do projeto Olho N’Água,
                             que visa possibilitar o acompanhamento do nível de água dos reservatórios do
-                            Semiárido brasileiro. <a href="https://olhonagua.insa.gov.br/#!/">visitar</a>
+                            Semiárido brasileiro. <a href="https://olhonagua.insa.gov.br/#!/">Visitar</a>
                         </p>
                         
                     </div>

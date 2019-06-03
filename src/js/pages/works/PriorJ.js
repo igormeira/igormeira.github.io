@@ -30,8 +30,6 @@ export default class PriorJ extends Component {
                         </LazyLoad>
                     </div>
                 </div>
-
-
             </div>
         );
     }

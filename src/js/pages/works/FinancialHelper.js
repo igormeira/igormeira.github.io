@@ -21,13 +21,13 @@ export default class FinancialHelper extends Component {
                             financeiro para plataforma Android.
                         </p>
                     </div>
-
+                    
                     <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
-                        <div class="portrait-mobile">
-                            <LazyLoad>
+                        <LazyLoad>
+                            <div class="portrait-mobile">
                                 <img src={android1}></img> <img src={android2}></img> <i class="fa fa-android"></i>
-                            </LazyLoad>
-                        </div>
+                            </div>
+                        </LazyLoad>
                     </div>
 
                     <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">

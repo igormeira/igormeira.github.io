@@ -6,6 +6,7 @@ import FinancialHelper from './FinancialHelper';
 import PriorJ from './PriorJ';
 import INSA from './INSA';
 import AppShopCE from './AppShopCE';
+import TrocAuto from './TrocAuto';
 
 export default class Work extends Component {
     render() {
@@ -20,6 +21,7 @@ export default class Work extends Component {
                 </div>
 
                 <div class="content-wrapper">
+                    <TrocAuto></TrocAuto>
                     <AppShopCE></AppShopCE>
                     <OlhoNagua></OlhoNagua>
                     <INSA></INSA>

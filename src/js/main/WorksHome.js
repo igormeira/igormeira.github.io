@@ -10,7 +10,17 @@ export default class WorksHome extends Component {
                 <div class="row">
                     <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
                         <h3 class="content-subhead">
-                            <i class="fa fa-desktop"></i>
+                            <i class="fa fa-mobile"></i>
+                            TrocAuto
+                        </h3>
+                        <p>
+                            Desenvolvedor. O TrocAuto oferece ao usuário uma comparação entre dois veículos, 
+                            mostrando qual dos dois tem um gasto menor em período de tempo.
+                        </p>
+                    </div>
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+                        <h3 class="content-subhead">
+                            <i class="fa fa-mobile"></i>
                             AppShop Controle de Estoque
                         </h3>
                         <p>
@@ -43,7 +53,7 @@ export default class WorksHome extends Component {
                             Utilizando o Joomla como CMS.
                         </p>
                     </div>
-                    <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+                    {/*<div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
                         <h3 class="content-subhead">
                             <i class="fa fa-mobile"></i>
                             Financial Helper
@@ -54,7 +64,7 @@ export default class WorksHome extends Component {
                             financeiro para plataforma Android.
                         </p>
                     </div>
-                    {/*
+                    
                     <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
                         <h3 class="content-subhead">
                             <i class="fa fa-desktop"></i>

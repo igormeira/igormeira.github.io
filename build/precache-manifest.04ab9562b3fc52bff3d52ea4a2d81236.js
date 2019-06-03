@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "0fc1cc5d458cabc9092d0d6c6e8a94a2",
-    "url": "/static/media/insa-web.0fc1cc5d.png"
+    "revision": "6da876a03f662b359dd10c2e359345d6",
+    "url": "/static/media/appshop-ios1.6da876a0.png"
   },
   {
-    "revision": "b4939140bdee2567b0cc",
-    "url": "/static/css/main.ac0df7bc.chunk.css"
+    "revision": "e78205b4b4bc14f47f40",
+    "url": "/static/css/main.5ab69fe5.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "121eacf5837bb4d156a8",
-    "url": "/static/js/2.b84d7630.chunk.js"
+    "revision": "93f703d8e4db25659c34",
+    "url": "/static/js/2.05ee9960.chunk.js"
   },
   {
     "revision": "6628a7ae2a13d47452e37224e157286f",
@@ -36,16 +36,24 @@ self.__precacheManifest = [
     "url": "/static/media/priorj2.1ad0119c.png"
   },
   {
-    "revision": "b4939140bdee2567b0cc",
-    "url": "/static/js/main.31d9a73f.chunk.js"
+    "revision": "0fc1cc5d458cabc9092d0d6c6e8a94a2",
+    "url": "/static/media/insa-web.0fc1cc5d.png"
   },
   {
-    "revision": "6da876a03f662b359dd10c2e359345d6",
-    "url": "/static/media/appshop-ios1.6da876a0.png"
+    "revision": "e78205b4b4bc14f47f40",
+    "url": "/static/js/main.19138f29.chunk.js"
   },
   {
     "revision": "e3af4682a11c56cf049589ed780f4072",
     "url": "/static/media/appshop-ios2.e3af4682.png"
+  },
+  {
+    "revision": "a08eeeaa9fdf8165fad9a88dee67755d",
+    "url": "/static/media/trocauto-ios1.a08eeeaa.png"
+  },
+  {
+    "revision": "aafb6026a3e6e529a6aeed64b63e6fe4",
+    "url": "/static/media/trocauto-ios2.aafb6026.png"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -72,7 +80,7 @@ self.__precacheManifest = [
     "url": "/static/media/priorj1.4b0424a6.png"
   },
   {
-    "revision": "bbd53465b3f42007cd5e7d2debb4f3b9",
+    "revision": "614bf8a0f81722be8c541f7fd3d0e9bf",
     "url": "/index.html"
   }
 ];

@@ -17,12 +17,12 @@ export default class INSA extends Component {
                         <p>
                             Desenvolvedor Web no Instituto Nacional do Semiárido(INSA).
                             Trabalhando no desenvolvimento do novo portal da instituição.
-                            Utilizando o Joomla como CMS. <a href="https://portal.insa.gov.br">visitar</a>
+                            Utilizando o Joomla como CMS. <a href="https://portal.insa.gov.br">Visitar</a>
                         </p>
                     </div>
 
                     <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 portrait-web">
-                        <LazyLoad>
+                        <LazyLoad>    
                             <img src={insa_img}></img>
                         </LazyLoad>
                     </div>
