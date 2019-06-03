@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/appshop-ios1.6da876a0.png"
   },
   {
-    "revision": "c6e9173e10a09ac093c5",
+    "revision": "e78205b4b4bc14f47f40",
     "url": "/static/css/main.5ab69fe5.chunk.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/static/media/insa-web.0fc1cc5d.png"
   },
   {
-    "revision": "c6e9173e10a09ac093c5",
-    "url": "/static/js/main.b017afb3.chunk.js"
+    "revision": "e78205b4b4bc14f47f40",
+    "url": "/static/js/main.19138f29.chunk.js"
   },
   {
     "revision": "e3af4682a11c56cf049589ed780f4072",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/static/media/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/static/media/priorj1.4b0424a6.png"
   },
   {
-    "revision": "b0cab1ee7a363fc38404ee6eb8314c9b",
+    "revision": "614bf8a0f81722be8c541f7fd3d0e9bf",
     "url": "/index.html"
   }
 ];
