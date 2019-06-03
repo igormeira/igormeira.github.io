@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import LazyLoad from 'react-lazy-load';
 
 import insa_img from '../../../img/insa-web.png';
-import LazyLoad from 'react-lazy-load';
 
 export default class INSA extends Component {
     render() {

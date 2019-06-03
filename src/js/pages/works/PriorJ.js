@@ -3,7 +3,6 @@ import LazyLoad from 'react-lazy-load';
 
 import priorj1 from '../../../img/priorj1.png';
 import priorj2 from '../../../img/priorj2.png';
-import LazyLoad from 'react-lazy-load';
 
 export default class PriorJ extends Component {
     render() {

@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/insa-web.0fc1cc5d.png"
   },
   {
-    "revision": "04a399cd91b6c6a333e1",
+    "revision": "b4939140bdee2567b0cc",
     "url": "/static/css/main.ac0df7bc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "ccdbae69c81891078f82",
-    "url": "/static/js/2.0be7d165.chunk.js"
+    "revision": "121eacf5837bb4d156a8",
+    "url": "/static/js/2.b84d7630.chunk.js"
   },
   {
     "revision": "6628a7ae2a13d47452e37224e157286f",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/priorj2.1ad0119c.png"
   },
   {
-    "revision": "04a399cd91b6c6a333e1",
-    "url": "/static/js/main.abf2d971.chunk.js"
+    "revision": "b4939140bdee2567b0cc",
+    "url": "/static/js/main.31d9a73f.chunk.js"
   },
   {
     "revision": "6da876a03f662b359dd10c2e359345d6",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/static/media/appshop-ios2.e3af4682.png"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/media/priorj1.4b0424a6.png"
   },
   {
-    "revision": "c247b3922d9904e5a156ef2b719444ee",
+    "revision": "bbd53465b3f42007cd5e7d2debb4f3b9",
     "url": "/index.html"
   }
 ];
