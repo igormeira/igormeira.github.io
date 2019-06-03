@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
+import LazyLoad from 'react-lazy-load';
 
 import insa_img from '../../../img/insa-web.png';
+import LazyLoad from 'react-lazy-load';
 
 export default class INSA extends Component {
     render() {
@@ -21,7 +23,9 @@ export default class INSA extends Component {
                     </div>
 
                     <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 portrait-web">
-                        <img src={insa_img}></img>
+                        <LazyLoad>
+                            <img src={insa_img}></img>
+                        </LazyLoad>
                     </div>
                 </div>
 

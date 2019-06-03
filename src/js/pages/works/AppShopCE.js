@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import LazyLoad from 'react-lazy-load';
 
 import ios1 from '../../../img/appshop-ios1.png';
 import ios2 from '../../../img/appshop-ios2.png';
@@ -23,7 +24,9 @@ export default class AppShopCE extends Component {
 
                     <div class="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
                         <div class="portrait-mobile">
-                            <img src={ios1}></img> <img src={ios2}></img> <i class="fa fa-apple"></i>
+                            <LazyLoad>
+                                <img src={ios1}></img> <img src={ios2}></img> <i class="fa fa-apple"></i>
+                            </LazyLoad>
                         </div>
                     </div>
 

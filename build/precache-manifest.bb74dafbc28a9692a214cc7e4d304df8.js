@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/insa-web.0fc1cc5d.png"
   },
   {
-    "revision": "4912e9c973569701a96b",
+    "revision": "04a399cd91b6c6a333e1",
     "url": "/static/css/main.ac0df7bc.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/priorj2.1ad0119c.png"
   },
   {
-    "revision": "4912e9c973569701a96b",
-    "url": "/static/js/main.39c7da6f.chunk.js"
+    "revision": "04a399cd91b6c6a333e1",
+    "url": "/static/js/main.abf2d971.chunk.js"
   },
   {
     "revision": "6da876a03f662b359dd10c2e359345d6",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/static/media/appshop-ios2.e3af4682.png"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/static/media/fontawesome-webfont.af7ae505.woff2"
-  },
-  {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/media/priorj1.4b0424a6.png"
   },
   {
-    "revision": "5d2bde57bdd497c425c3f498471805e5",
+    "revision": "c247b3922d9904e5a156ef2b719444ee",
     "url": "/index.html"
   }
 ];

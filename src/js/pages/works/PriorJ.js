@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
+import LazyLoad from 'react-lazy-load';
 
 import priorj1 from '../../../img/priorj1.png';
 import priorj2 from '../../../img/priorj2.png';
+import LazyLoad from 'react-lazy-load';
 
 export default class PriorJ extends Component {
     render() {
@@ -24,7 +26,9 @@ export default class PriorJ extends Component {
                     </div>
 
                     <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 portrait-web">
-                        <img src={priorj2}></img>
+                        <LazyLoad>
+                            <img src={priorj2}></img>
+                        </LazyLoad>
                     </div>
                 </div>
 

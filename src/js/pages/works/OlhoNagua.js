@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import LazyLoad from 'react-lazy-load';
 
 import olhonagua from '../../../img/olhonagua-web.png';
 
@@ -24,7 +25,9 @@ export default class OlhoNagua extends Component {
                     </div>
 
                     <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 portrait-web">
-                        <img src={olhonagua}></img>
+                        <LazyLoad>
+                            <img src={olhonagua}></img>
+                        </LazyLoad>
                     </div>
                 </div>
 
